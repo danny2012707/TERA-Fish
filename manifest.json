@@ -1,0 +1,43 @@
+{
+    "files": {
+        "index.js": "3e0e6c79037ca05234e55363bd53174c62f6ba3e130cb1b4390d2c5a6f24e488",
+        "module.json": "6e5e5fb5e08faa49d4b052a6e866809c0b61b90ed2f81a06f13eae46a74119ed"
+    },
+    "defs": {
+        "C_CANCEL_CONTRACT": 1,
+        "C_CAST_FISHING_ROD": 2,
+        "C_DEL_ITEM": 3,
+        "C_DIALOG": 2,
+        "C_END_FISHING_MINIGAME": 2,
+        "C_GET_WARE_ITEM": 3,
+        "C_NPC_CONTACT": 2,
+        "C_PLAYER_LOCATION": 5,
+        "C_REQUEST_CONTRACT": 1,
+        "C_REQUEST_DESPAWN_SERVANT": 1,
+        "C_REQUEST_SERVANT_INFO_LIST": 1,
+        "C_REQUEST_SPAWN_SERVANT": 1,
+        "C_RQ_ADD_ITEM_TO_DECOMPOSITION_CONTRACT": 1,
+        "C_RQ_START_SOCIAL_ON_PROGRESS_DECOMPOSITION": 1,
+        "C_SERVANT_ABILITY": 1,
+        "C_START_FISHING_MINIGAME": 2,
+        "C_START_PRODUCE": 1,
+        "C_STORE_COMMIT": 1,
+        "C_STORE_SELL_ADD_BASKET": 2,
+        "C_USE_ITEM": 3,
+        "C_VIEW_WARE": 2,
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_END": 1,
+        "S_CAST_FISHING_ROD": 1,
+        "S_CHAT": 3,
+        "S_DIALOG": 2,
+        "S_END_PRODUCE": 1,
+        "S_FISHING_BITE": 1,
+        "S_REQUEST_CONTRACT": 1,
+        "S_REQUEST_DESPAWN_SERVANT": 1,
+        "S_REQUEST_SERVANT_INFO_LIST": 3,
+        "S_REQUEST_SPAWN_SERVANT": 4,
+        "S_START_FISHING_MINIGAME": 1,
+        "S_SYSTEM_MESSAGE": 1,
+        "S_VIEW_WARE_EX": 1
+    }
+}
